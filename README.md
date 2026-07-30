@@ -1,6 +1,7 @@
 # desktop_app_cuadratica
-hola
+hola 
 
 
 ![alt text](screen.jpg)
+
 
